@@ -160,7 +160,7 @@
 
 #sec8{
   /*background: url(../media/black.jpg) no-repeat center center fixed;*/
-  background-color: red;
+  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -173,7 +173,7 @@
 }
 
 #sec9{
-  background-color: red;
+  background-color: black;
   /*background: url(../media/black.jpg) no-repeat center center fixed;*/
   -webkit-background-size: cover;
   -moz-background-size: cover;
