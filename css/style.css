@@ -1,0 +1,220 @@
+
+
+#skroll { 
+  display: none;
+}
+
+.skroll-header {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+ height: 50px; 
+  text-align:right;
+}
+
+.skroll-content section h2 { 
+  text-align: center;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  font-size: 30px;
+  font-family: Lucida Sans Unicode, sans-serif;
+  width: 40%;
+  margin-right: 10%;
+  margin-top: 15%;
+  float: right;
+}
+
+.skroll-header ul { 
+  list-style-type: none;
+}
+
+.skroll-header ul li {
+  display: inline; 
+  margin: 0 5px;}
+
+.skroll-header ul li a {
+  -webkit-transition: all .5s ease-out; 
+  -moz-transition: all .5s ease-out; 
+  -o-transition: all .5s ease-out; 
+  transition: all .5s ease-out;
+}
+
+.skroll-content {
+  width: 100%; ;
+}
+
+.skroll-content section {
+  width: 100%; 
+  height: 100%; 
+  float: left;
+}
+
+
+/*--------------------------------------*/
+#sec1{
+  background: url(../media/John.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sec1 h2 {
+   
+   width: 20%;
+   /* float: right;*/
+    margin-right: 30%;*/
+
+}
+
+.yellow{
+  color: #85B703;
+
+}
+
+.red{
+  color: #8A0707;
+}
+
+#sec2{
+  background: url(../media/janitor.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sec2 h2 {
+    
+    float: left;
+    margin-left: 10%;
+
+}
+
+#sec3{
+  background: url(../media/education.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+#sec4{
+  background: url(../media/busy.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sec4 h2 {
+    
+    float: left;
+    margin-left: 10%;
+
+}
+#sec5{
+  background: url(../media/law.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sec6{
+  background: url(../media/father.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sec6 h2 {
+    
+    float: left;
+    margin-left: 10%;
+
+}
+#sec7{
+  background: url(../media/prison.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+#sec7 h2 {
+    width: 50%;
+    margin-top: 10%;
+}
+
+#sec7 h2 span{
+    font-family: Verdana, sans-serif;
+    font-size: 60px;
+
+}
+
+
+#sec8{
+  background: url(../media/black.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#sec8 h2 {
+    float: left;
+    margin-left: 10%;
+
+}
+
+#sec9{
+  
+  background: url(../media/black.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.stat{ 
+  font-size: 25px;
+  width:22%;
+  float:left;
+  margin:20px;
+  padding: 50px;
+  font-family: verdana, sans-serif;
+  color: white;
+}
+
+#sec10{
+  background: url(../media/hope.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+#sec11{
+  background: url(../media/handshake.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#sec11 h2 {
+    width: 500px;
+    float: left;
+    margin-left: 10%;
+}
+
+a{
+  color: #85B703;
+  text-decoration: none;
+  font-size: 150%;
+}
